@@ -8,6 +8,7 @@
 -   [Setup](#setup)
 -   [Project Status](#project-status)
 -   [Figma Link](#figma-link)
+-   [Project Link](#project-link)
 -   [Contact](#contact)
 
 ## General Information
@@ -39,6 +40,10 @@ Project is: _complete_
 ## Figma Link
 
 [Brainstorming Figma](https://www.figma.com/file/4ZVrezNLf9liU9cXMkY2FL/Untitled?node-id=0%3A1&t=r1LKJacYygHgeb86-1)
+
+## Figma Link
+
+[Github Pages Link](https://sahincinar.github.io/calculator/index.html)
 
 ## Contact
 
