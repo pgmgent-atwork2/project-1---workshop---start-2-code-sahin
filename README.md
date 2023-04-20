@@ -7,6 +7,7 @@
 -   [Features](#features)
 -   [Setup](#setup)
 -   [Project Status](#project-status)
+-   [Figma Link](#figma-link)
 -   [Contact](#contact)
 
 ## General Information
@@ -34,6 +35,10 @@ Rightclick on "index.html", then click on "Open in Default Browser".
 ## Project Status
 
 Project is: _complete_
+
+## Figma Link
+
+[Brainstorming Figma](https://www.figma.com/file/4ZVrezNLf9liU9cXMkY2FL/Untitled?node-id=0%3A1&t=r1LKJacYygHgeb86-1)
 
 ## Contact
 
