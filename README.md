@@ -41,7 +41,7 @@ Project is: _complete_
 
 [Brainstorming Figma](https://www.figma.com/file/4ZVrezNLf9liU9cXMkY2FL/Untitled?node-id=0%3A1&t=r1LKJacYygHgeb86-1)
 
-## Figma Link
+## Project Link
 
 [Github Pages Link](https://sahincinar.github.io/calculator/index.html)
 
